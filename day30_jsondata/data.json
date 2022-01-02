@@ -1,0 +1,14 @@
+{
+    "a": {
+        "email": "binu@gmail.com",
+        "password": "aaaa"
+    },
+    "b": {
+        "email": "binu@gmail.com",
+        "password": "bbbb"
+    },
+    "c": {
+        "email": "binu@gmail.com",
+        "password": "cccc"
+    }
+}
